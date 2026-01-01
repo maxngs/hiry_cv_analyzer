@@ -1,0 +1,5 @@
+{
+  "name": "Hiry_CV_analyzer",
+  "description": "Next-generation CV analysis tool for extracting deep insights, soft skills, and structured data from resumes using Gemini.",
+  "requestFramePermissions": []
+}
